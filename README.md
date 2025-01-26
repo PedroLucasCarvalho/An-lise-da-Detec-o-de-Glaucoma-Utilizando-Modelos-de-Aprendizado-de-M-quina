@@ -29,7 +29,7 @@ Certifique-se de ter o Python instalado na versão 3.8 ou superior e o ambiente 
 
 Clone o repositório:
 
-git clone 
+git clone https://github.com/PedroLucasCarvalho/An-lise-da-Detec-o-de-Glaucoma-Utilizando-Modelos-de-Aprendizado-de-M-quina/blob/main/README.md
 
 Crie e ative um ambiente virtual (opcional):
 
