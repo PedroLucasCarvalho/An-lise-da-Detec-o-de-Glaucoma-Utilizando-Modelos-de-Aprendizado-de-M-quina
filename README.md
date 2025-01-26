@@ -1,4 +1,4 @@
-# Analise da Deteccao de Glaucoma Utilizando Modelos de Aprendizado de Maquina
+# Análise da Detecção de Glaucoma Utilizando Modelos de Aprendizado de Máquina
 
 Análise da Detecção de Glaucoma Utilizando Modelos de Aprendizado de Máquina
 
